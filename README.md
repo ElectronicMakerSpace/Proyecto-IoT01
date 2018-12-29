@@ -1,6 +1,6 @@
 # Arduino Mega + Sigfox
 
-El proyecto tiene la finalidad de mostrar algunos ejemplos de la plataforma <b>sigfox</b> integrada con el microcontrolador ATMEGA2560 y soportado con el IDE de Arduino para una mejor implementación en tus proyectos.
+El proyecto tiene la finalidad de mostrar algunos ejemplos de la plataforma <b style="color: #B1251E;>sigfox</b> integrada con el microcontrolador ATMEGA2560 y soportado con el IDE de Arduino para una mejor implementación en tus proyectos.
 
 ## Installation
 
